@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jazzyzone
-- 👀 I’m interested in game development, character modeling, and just seeing what I can make now
-- 🌱 I’m currently learning Java, SQL, and Vue
+- 👀 I’m interested in cloud concepts, networking, devops and just seeing what I can make now
+- 🌱 I’m currently learning Azure and refreshing my fundmentals 
 - 💞️ I’m looking to collaborate on will let you know when i think of it
 - 📫 How to reach me ...
 
