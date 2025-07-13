@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jazzyzone
 - 👀 I’m interested in cloud concepts, networking, devops and just seeing what I can make now
-- 🌱 I’m currently learning Azure, Python and refreshing my fundmentals 
+- 🌱 I’m currently learning AWS, Python and refreshing my fundmentals. Looking at basics of Azure too. Most projects in Java for now.
 - 💞️ I’m looking to collaborate on will let you know when i think of it
 - 📫 How to reach me ...
 
