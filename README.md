@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jazzyzone
-- 👀 I’m interested in cloud concepts, networking, devops and just seeing what I can make now
-- 🌱 I’m currently learning AWS, Python and refreshing my fundmentals. Looking at basics of Azure too. Most projects in Java for now.
+- 👀 I’m interested in web dev, game dev, and just seeing what I can make now
+- 🌱 I’m currently learning Python and refreshing my fundmentals. Currently end cloud computing and working on Azure. Most projects in Java for now.
 - 💞️ I’m looking to collaborate on will let you know when i think of it
-- 📫 How to reach me ...
+- 📫 How to reach me 
 
 <!---
 Jazzyzone/Jazzyzone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
